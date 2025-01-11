@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
+tensorflow
+tensorboard
+nltk
+spacy
+gensim
+transformers
+tqdm
